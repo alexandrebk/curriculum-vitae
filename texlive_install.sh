@@ -29,7 +29,7 @@ tlmgr install luatex
 # texlive-latex-base is needed to run pdflatex
 tlmgr install   \
   exam          \
-  moderncv      \
+  # moderncv      \
   amsfonts      \
   stmaryrd      \
   amsmath
