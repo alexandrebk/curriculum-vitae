@@ -31,6 +31,7 @@ tlmgr install   \
   exam          \
   etoolbox      \
   xcolor        \
+  tlmgr         \
   moderncv      \
   amsfonts      \
   stmaryrd      \
