@@ -30,6 +30,7 @@ tlmgr install luatex
 tlmgr install   \
   exam          \
   etoolbox      \
+  xcolor        \
   moderncv      \
   amsfonts      \
   stmaryrd      \
