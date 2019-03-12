@@ -31,9 +31,7 @@ tlmgr install ec  \
   exam          \
   etoolbox      \
   l3packages    \
-  l3keys2e      \
-  l3keys        \
-  expl3         \
+  xpackages    \
   geometry      \
   xcolor        \
   moderncv      \
