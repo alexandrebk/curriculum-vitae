@@ -42,6 +42,7 @@ tlmgr install   \
   l3kernel      \
   microtype     \
   pgf           \
+  cm-super      \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
