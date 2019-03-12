@@ -34,16 +34,14 @@ tlmgr install   \
   exam          \
   etoolbox      \
   l3packages    \
-  xpackages     \
   geometry      \
   xcolor        \
   moderncv      \
   amsfonts      \
   stmaryrd      \
-  expl3         \
   l3kernel      \
   microtype     \
-  tikz          \
+  pgf           \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
