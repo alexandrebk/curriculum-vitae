@@ -42,6 +42,7 @@ tlmgr install   \
   stmaryrd      \
   expl3         \
   l3kernel      \
+  microtype     \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
