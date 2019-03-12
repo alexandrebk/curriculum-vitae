@@ -32,6 +32,9 @@ tlmgr install ec  \
   etoolbox      \
   l3packages    \
   l3keys2e      \
+  l3keys        \
+  expl3         \
+  geometry      \
   xcolor        \
   moderncv      \
   amsfonts      \
