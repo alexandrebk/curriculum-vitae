@@ -41,6 +41,7 @@ tlmgr install   \
   amsfonts      \
   stmaryrd      \
   expl3         \
+  l3kernel      \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
