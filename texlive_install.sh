@@ -25,7 +25,7 @@ fi
 # Needed for any use of texlua even if not testing LuaTeX
 tlmgr install luatex
 
-tlmgr update -self -all
+tlmgr search --global --file expl3.sty
 
 # Other contrib packages: done as a block to avoid multiple calls to tlmgr
 # texlive-latex-base is needed to run pdflatex
