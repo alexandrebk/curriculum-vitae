@@ -31,6 +31,7 @@ tlmgr install ec  \
   exam          \
   etoolbox      \
   l3packages    \
+  expl3         \
   xcolor        \
   moderncv      \
   amsfonts      \
