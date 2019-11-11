@@ -81,15 +81,15 @@ Il est divisé en trois cents (300) actions de dix (IO) euros chacune, souscrite
 
 ARTICLE 8 - AUGMENTATION DU CAPITAL SOCIAL
 
-1 - Le capital ne peut être augmenté que par une décision collective des associés statuant sur le rapport du Président.
+8-1 Le capital ne peut être augmenté que par une décision collective des associés statuant sur le rapport du Président.
 
 Le capital social peut être augmenté soit par émission chictions ordinaires ou de préférence, soit par majoration du montant nominal des titres de capital existants. Il peut également être augmenté par l'exercice des droits attachés des valeurs mobilières donnant accès au capital, dans les conditions prévues par la loi.
 
 Les titres de capital nouveaux sont émis soit à leur montant nominal, soit à ce montant majoré prime d'émission. Ils sont libérés soit par apport en numéraire y compris par compensation avec des créances liquides el exigibles sur la Société, soit par apport en nature, soit par incorporation de réserves, bénéfices ou primes d'émission, soit en conséquence d'une fusion ou d'une scission. Ils peuvent aussi être libérés consécutivement à l'exercice d'un droit attaché à des valeurs mobilières donnant accès au capital comprenant, le cas échéant, le versernent des sommes
 
-2- Les associés peuvent déléguer au Président les pouvoirs nécessaires à l'effet de réaliser ou de décider, dans les conditions et délais prévus par la loi, l'augmentation du capital.
+8-2 Les associés peuvent déléguer au Président les pouvoirs nécessaires à l'effet de réaliser ou de décider, dans les conditions et délais prévus par la loi, l'augmentation du capital.
 
-3- En cas d'augmentation du capital en numéraire ou d'émission de valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créances, les assa:iés ont, proportionnellement au montant de leurs actions, un droit de préférence à la souscription des nouveaux titres émis. Toutefois, les associés peuvent renoncer à titre individuel à leur droit préférentiel de souscription et la décision d'augmentation du capital peut supprimer ce droit préférentiel dans les conditions prévues par la loi.
+8-3 En cas d'augmentation du capital en numéraire ou d'émission de valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créances, les assa:iés ont, proportionnellement au montant de leurs actions, un droit de préférence à la souscription des nouveaux titres émis. Toutefois, les associés peuvent renoncer à titre individuel à leur droit préférentiel de souscription et la décision d'augmentation du capital peut supprimer ce droit préférentiel dans les conditions prévues par la loi.
 
 ARTICLE 9 - LIBERATION DU CAPITAL
 
@@ -116,7 +116,7 @@ ARTICLE 12 - INDIVISIBILITÉ DES ACTIONS
 
 Les actions sont indivisibles à l'égard de la Société. Les copropriétaires indivis d'actions sont représentés aux Assemblées Générales par l'un d'eux ou par un mandataire commun de leur choix.  À défaut d'accord entre eux sur le choix d'un mandataire, celui-ci est désigné par Ordonnance du Président du Tribunal de Commerce statuant en référé à la demande du copropriétaire le plus diligent.
 
-Le droit de vote attaché à l'action appartient lusufruitier dans les Assemblées Générales Ordinaires et au nu-propriétaire dans les Assemblées Générales Extraordinaires. Cependant, les associés peuvent convenir entre eux de toute autre répartition pour l'exercice du droit de vote aux Assemblées Générales. En Ce cas, ils devront porter leur convention à la connaissance de la Société par lettre recommandée adressée au Siège social, la Société étant tenue dc respecter cette pour toute Assemblée Générale qui se réunirait après l'expiration d'un délai d'un mois suivant de la lettt•e recommandée, le cachet de la poste faisant foi de la date dexpédition.  Nonobstant les dispositions ci-dessus, le nu-prwriétaire a le droit dc participer toutes les assemblées générales.
+Le droit de vote attaché à l'action appartient lusufruitier dans les Assemblées Générales Ordinaires et au nu-propriétaire dans les Assemblées Générales Extraordinaires. Cependant, les associés peuvent convenir entre eux de toute autre répartition pour l'exercice du droit de vote aux Assemblées Générales. En Ce cas, ils devront porter leur convention à la connaissance de la Société par lettre recommandée adressée au Siège social, la Société étant tenue dc respecter cette pour toute Assemblée Générale qui se réunirait après l'expiration d'un délai d'un mois suivant de la lettte recommandée, le cachet de la poste faisant foi de la date dexpédition.  Nonobstant les dispositions ci-dessus, le nu-prwriétaire a le droit dc participer toutes les assemblées générales.
 
 Le droit de l'associé dobtenir communication de documents sociaux ou de les consulter peut également être exercé par chacun des copropriétaires d'actions indivises, par l'usufruitier et le nu- propriétaire d'actions.
 
@@ -134,7 +134,7 @@ Pour l'application des disposition du présent article:
 
 Le terme "actions" Sentcnd de toutes valeurs mobilières existantes ou futures, quelles qu'elles soient, y compris celles représentant ou susceptibles de représenter, meme à terme, le capital ou les droits de vote de la Société, 011 un droit sur répartition des bénéfices, ainsi que tous droits et bons permettant de devenir, par quelque moyen que ce soit, titulaire d'actions de la Société.
 
-Le terme "cession" signifie toute opération à titre onéreux ou gratuit entrainant le transfert de la pleine propriété, de la nue-propriété ou de l'usufnait des valeurs mobilières émises par la Société, savoir : cession, transmission, échnngc, apport cn société, fusion et opération assimilée, cession judiciait•c, constitution de trusts, nantissement, liquidation, transmission universelle de patrimoine. Le terme "Opératim de reclasxmcnt• signifie totRe *ation de reclassement simple des actions de la SŒiété intervenant à de chacun des groupes crassociés, constitué par chXlue Société ct les sŒiétés Ou entités qtfelle contrôle directement ou indirectement au sens l'article 1.233-3
+Le terme "cession" signifie toute opération à titre onéreux ou gratuit entrainant le transfert de la pleine propriété, de la nue-propriété ou de l'usufnait des valeurs mobilières émises par la Société, savoir : cession, transmission, échnngc, apport cn société, fusion et opération assimilée, cession judiciaitc, constitution de trusts, nantissement, liquidation, transmission universelle de patrimoine. Le terme "Opératim de reclasxmcnt signifie totRe *ation de reclassement simple des actions de la SŒiété intervenant à de chacun des groupes crassociés, constitué par chXlue Société ct les sŒiétés Ou entités qtfelle contrôle directement ou indirectement au sens l'article 1.233-3
 
 13.4 Préemption
 
@@ -155,11 +155,11 @@ Chaque associé bénéficie d'un droit de pernption Str les Etions frisant IWet 
 
 A l'expiratbn du délai trente (30) jours prévu i l'alinéa ci-dessus et avant celle du délai de deux mois ci-dessus, le Prési&nt thit notifier i l'associé Cédant pr lettre r«ommandée demande de réception les résultMs de la préalptim.
 
-Si les droits de p•éemptim exercés s*ieurs au dont la cession envisagée. les actions concernées réparties sur le Président entre les associés qui ont notifié leur volonté au dc kur —iptim au capital de et dans la limite de leurs detnandcs.
+Si les droits de péemptim exercés s*ieurs au dont la cession envisagée. les actions concernées réparties sur le Président entre les associés qui ont notifié leur volonté au dc kur —iptim au capital de et dans la limite de leurs detnandcs.
 
-Si les droits rwécmption wnt inféria•rs au nunbrc Œ*tions bat la envisagée, les droits de préemption réPJtés nivoir jamais été exercés et Cédant est libre réaliser la cession au profit cessionnaire mentionné dans notification. régrvc de resFcter la prœédure à rarticle Agréarnt • ci -apes.  En cas Œexercice du Œ0it préemption. la cession devra être dans un délai I S jours moyennant prix arnti•nné la rwtificatioa de rass«ié Caant.
+Si les droits rwécmption wnt infériars au nunbrc Œ*tions bat la envisagée, les droits de préemption réPJtés nivoir jamais été exercés et Cédant est libre réaliser la cession au profit cessionnaire mentionné dans notification. régrvc de resFcter la prœédure à rarticle Agréarnt  ci -apes.  En cas Œexercice du Œ0it préemption. la cession devra être dans un délai I S jours moyennant prix arntinné la rwtificatioa de rass«ié Caant.
 
-Si la cession porte Sur la majMité actions. elle donnera lieu la conclusion d'une convention de garantie (factif ct de Inssif, suivant usages cn la matière, basée sur unc situation c•Mnptablc de la la datc cessim, certifiée canmis.saire MIX de la Société.
+Si la cession porte Sur la majMité actions. elle donnera lieu la conclusion d'une convention de garantie (factif ct de Inssif, suivant usages cn la matière, basée sur unc situation cMnptablc de la la datc cessim, certifiée canmis.saire MIX de la Société.
 
 13.5 Agrément
 
@@ -192,7 +192,7 @@ Sous réserve des dispositions légales et statutaires, aucune majorité ne peut
 
 La possession d'une action comporte de plein droit adhésion aux décisions des associés et aux présents statuts. La cession comprend tous les dividendes échus et non payés et à échoir, ainsi éventuellement que la part dans ICS fonds dc réserve, sauf dispositions contraires notifiées à la Société.
 
-14.3 Chaque rois qu'il est néces•ire posséder un certain nombre &actions exercer un droit quelconque, en cas déchange, de regroupement ou attribution de titres ou lors dune augmentation ou Œune réduction de capital, dune fusion ou de toute autre les associés un nombre dactions inférieur à celui requis. ne peuvent exercer ces droits qu'à la de faire leur affaire de roMention du nombre (factions requis.
+14.3 Chaque rois qu'il est nécesire posséder un certain nombre &actions exercer un droit quelconque, en cas déchange, de regroupement ou attribution de titres ou lors dune augmentation ou Œune réduction de capital, dune fusion ou de toute autre les associés un nombre dactions inférieur à celui requis. ne peuvent exercer ces droits qu'à la de faire leur affaire de roMention du nombre (factions requis.
 
 TITRE III
 
@@ -200,7 +200,7 @@ DIRECTION - FONCTIONNEMENT ET CONTRÔLE DE LA SOCIÉTÉ
 
 ARTICLE 15 - PRESIDENT
 
-La Société revésentée, aŒninistrée et diri* par un président, physique ou morale, associé ou de la Société.
+La Société revésentée, adninistrée et dirigé par un président, physique ou morale, associé ou de la Société.
 
 Le Président est nommé renouvelé dans ses une durée de trois ans, par l'Assemblée Générale Ordinaire.
 
@@ -208,9 +208,9 @@ Lorsquftlnc FrS0nne morale est nommée Président Ou dirigeant, les dirigeants d
 
 ARTICLE 16 - POUVOIRS DU PRESIDENT
 
-Le Président assume. sous sa rewmsabilité. la Direction de la Société. Il la représente dans ses ramas avec les tiers, avec les les plus étendus. dans la limite de l'objet social Ct des pouvoirs de I • Asœrnblée Générale.
+Le Président assume. sous sa rewmsabilité. la Direction de la Société. Il la représente dans ses ramas avec les tiers, avec les les plus étendus. dans la limite de l'objet social Ct des pouvoirs de I  Asœrnblée Générale.
 
-Le Président ne peut enga#r la société pour des emprunts, garanties, rnrticipations ou cessions 'factifs sans rautorisation préalable de l'assemblée générale. plus, le ne Fut consentir caution, aval ou garantie, •ns raccord préalable de
+Le Président ne peut enga#r la société pour des emprunts, garanties, rnrticipations ou cessions 'factifs sans rautorisation préalable de l'assemblée générale. plus, le ne Fut consentir caution, aval ou garantie, ns raccord préalable de
 
 Les décisions des associés limitant ses 1K'uvoirs inopposables aux tiers.
 
@@ -220,7 +220,7 @@ Le Président peut consentir à tout mandataire de son choix toutes délégation
 
 ARTICLE 17 - REMUNERATION DU PRESIDENT
 
-La forwtic•m du Président ouvre droit à rémunération. elle est fixée les ass«xiés dans le dune collective exprirnée soit en assemblée Ou un acte sous seing privé.
+La forwticm du Président ouvre droit à rémunération. elle est fixée les ass«xiés dans le dune collective exprirnée soit en assemblée Ou un acte sous seing privé.
 
 ARTICLE 18 - CONVENTIONS EURE LA SOCIÉTÉ ET LE PRÉSIDENT
 
@@ -228,7 +228,7 @@ Les conventions qui peuvent être passées entre la Scxiété et son Président 
 
 Les conventions approuvées produiœnt réanmoins leurs effets, à charge la intéress& et éventuellement pour le Président d'en les conéquences dommageables pour la Société.
 
-Les dispositions qui p•écèdent sont pas applicables aux conventions portant sur les *ations courantes et cmclues à des conditions normales.
+Les dispositions qui pécèdent sont pas applicables aux conventions portant sur les *ations courantes et cmclues à des conditions normales.
 
 Les interdictions prévues à L 225—43 du Code du cornnErce s'appliquent, dans Jes conditions déterminées cet article, au président de la Sœiété.
 
@@ -292,7 +292,7 @@ Lors d'une réunion physique de les actionnaires, la feuille de vrésence est é
 
 La feuille de présence est exacte le burat' de rasEmbl&.
 
-Le de rassemblée est du pr&ident absence une personne spéciak•rnent désignée cet effet par rassemblée, d'un Secrétaire désigné par membres de l'assemblée, le Secrétaire étre dehœs des acti»nmires.
+Le de rassemblée est du pr&ident absence une personne spéciakrnent désignée cet effet par rassemblée, d'un Secrétaire désigné par membres de l'assemblée, le Secrétaire étre dehœs des acti»nmires.
 
 En cas de convocation que le Prési&nt exercice dans la société, rassemblée est présidée rur rauteur la convcxation.
 
@@ -320,7 +320,7 @@ Aucun quorum n'est sur deuxième convtxatkm. Elle Statue à la majorité des voi
 
 ARTICLE 27 - GÉNÉRALE EXTRAORPJNA'RE
 
-L'Assemblée Générale Extraordimire IE•ut les stattÂs dans tounes leurs dispositions ct décider notamment la transfcmnation de la Smüté en d'une autre forme, civile ou Commerciale. Elle nè peut toutefois augmenter lès engageinene des sous opérations résultant d'un regroupement régulièrement effectué.
+L'Assemblée Générale Extraordimire IEut les stattÂs dans tounes leurs dispositions ct décider notamment la transfcmnation de la Smüté en d'une autre forme, civile ou Commerciale. Elle nè peut toutefois augmenter lès engageinene des sous opérations résultant d'un regroupement régulièrement effectué.
 
 L'Assembléc Générale Extraordinaire ne peut délibérer valablement que si les associés présents ou représentés possèdent au moins. sur première convocation, le tiers et, sur deuxième convocation, le quad des actions ayant IC droit de Vote. A défaut de ce quorum, la deuxième Assemblée peut être prorogée à une date postérieure de deux mois au plus celle à laquelle elle avait été convoquée.
 
@@ -360,7 +360,7 @@ Le rapport dc gestion inclut, le cas échéant, le rapport sur la gestion du gro
 
 ... Générale Extraordinaire remet de déci&r y a lieu i 12 Sceiété.-
 
-Si la n'est IXOnoncée, le capital doit être. Sous résene des dispsitiOns légales relatives nu capital minimum et dans le délai fixé par là loi. réduit d'un montant égal i celui des Ft•tes qui n'ont pu être imputées Sur les réserves, si dans ce délai les capitaux pmxs nbnt PS été reconstitués à ctmcumence diJne valeur au moins égale la moitié du capital social.
+Si la n'est IXOnoncée, le capital doit être. Sous résene des dispsitiOns légales relatives nu capital minimum et dans le délai fixé par là loi. réduit d'un montant égal i celui des Fttes qui n'ont pu être imputées Sur les réserves, si dans ce délai les capitaux pmxs nbnt PS été reconstitués à ctmcumence diJne valeur au moins égale la moitié du capital social.
 
 Dans tous les cas, la "cision de l'Assembléc Générale doit formalités de requies dispositions réglementaires applicables.
 
@@ -370,7 +370,7 @@ Toutefris, le tribunal la si au jour il le la régularisaticm a lieu.
 
 ARTICLE 34 - TRANSFORMATION
 
-La Sœiété VRut Se transfvmer en Soc"té &une autre si, au moment de la trmsfMmatk•n, elle a au moins deux ans (rexistence et Si elle a établi et fait approuver par les associés les bilans de ses deux premiers exercices.
+La Sœiété VRut Se transfvmer en Soc"té &une autre si, au moment de la trmsfMmatkn, elle a au moins deux ans (rexistence et Si elle a établi et fait approuver par les associés les bilans de ses deux premiers exercices.
 
 La décision de transfonnation est prise sur le rapport d'un Commissaire aux Comptes à la transformation désigné par les associés ou à défaut Monsieur le Président du Tribunal de COmmUce lequel doit attester que les capitaux propes au moins égaux au capital social.
 La transformation en Société en Nom Collectif nécessite l'ucord de En c8.  ks ci-dessus exig&s.
@@ -386,7 +386,7 @@ Hors les cas de dissolution prévus par la loi, et sauf prorogation régulière,
 
 Un ou plusieurs liquidateurs alors nomnés par cette Assemblée Générale Extracydinaire conditions de quorum ct de muiorité prévues pour les Assemblées Générales Ordinaires.
 
-Le liqui'hteur rep--ésente la smial est et le r•ssif acquitté liquidateur qui est investi des pouvoirs les plus étendus. Il répartit ensuite le solde disponible.
+Le liqui'hteur rep--ésente la smial est et le rssif acquitté liquidateur qui est investi des pouvoirs les plus étendus. Il répartit ensuite le solde disponible.
 
 L'Assembléc as.s<Eiés luutoriser à affaires à en engager de nouvelles pour les besoins de la liquidation.
 
@@ -413,7 +413,7 @@ CONSTITUTION DE LA SOCIÉTÉ - DÉSIGNATION DES ORGANES SOCIAUX ACTES ACCOMPLIS 
 
 ARTICLE 37 - NOMINATION DU PRESIDENT
 
-En application de l'article L 225-16 du Code du le Président de la société est désigné pour une durée de 3 années qui expirera lors de l'assemblée Statuant sur les comptes du 3• exercice soit l'exercice qui sera Clos au 31 décembre 2016.
+En application de l'article L 225-16 du Code du le Président de la société est désigné pour une durée de 3 années qui expirera lors de l'assemblée Statuant sur les comptes du 3 exercice soit l'exercice qui sera Clos au 31 décembre 2016.
 
 Le premier président est Madame Christine, Théree KIRCHNER née IC 29 Février 1960 BFAJVAIS (60), de nationalité française, domiciliée au 52 rue de Courcelles 75008 PARIS.
 
