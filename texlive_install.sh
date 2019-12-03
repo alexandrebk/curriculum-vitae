@@ -43,6 +43,7 @@ tlmgr install   \
   microtype     \
   pgf           \
   cm-super      \
+  pdftexcmds    \
   tlmgr         \
   amsmath
 
