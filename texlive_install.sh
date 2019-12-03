@@ -43,6 +43,7 @@ tlmgr install   \
   microtype     \
   pgf           \
   cm-super      \
+  tlmgr         \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
