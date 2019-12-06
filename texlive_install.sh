@@ -45,6 +45,7 @@ tlmgr install   \
   cm-super      \
   pdftexcmds    \
   tlmgr         \
+  kvoptions     \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
