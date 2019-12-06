@@ -47,6 +47,7 @@ tlmgr install   \
   tlmgr         \
   kvoptions     \
   infwarerr     \
+  letltxmacro   \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
