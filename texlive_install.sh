@@ -58,6 +58,7 @@ tlmgr install   \
   auxhook       \
   intcalc       \
   etexcmds      \
+  scheme-full   \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
