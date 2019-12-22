@@ -57,6 +57,7 @@ tlmgr install   \
   hycolor       \
   auxhook       \
   intcalc       \
+  etexcmds      \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
