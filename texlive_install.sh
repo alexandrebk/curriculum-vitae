@@ -55,6 +55,7 @@ tlmgr install   \
   pdfescape     \
   xcolor        \
   hycolor       \
+  auxhook       \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
