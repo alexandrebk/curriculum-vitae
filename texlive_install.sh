@@ -52,6 +52,7 @@ tlmgr install   \
   ltxcmds       \
   kvsetkeys     \
   kvdefinekeys  \
+  pdfescape     \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
