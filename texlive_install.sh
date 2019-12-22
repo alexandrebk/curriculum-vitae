@@ -54,6 +54,7 @@ tlmgr install   \
   kvdefinekeys  \
   pdfescape     \
   xcolor        \
+  hycolor       \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
