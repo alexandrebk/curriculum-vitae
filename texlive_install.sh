@@ -49,6 +49,7 @@ tlmgr install   \
   infwarerr     \
   letltxmacro   \
   epstopdf-base \
+  ltxcmds       \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
