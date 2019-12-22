@@ -50,6 +50,7 @@ tlmgr install   \
   letltxmacro   \
   epstopdf-base \
   ltxcmds       \
+  kvsetkeys     \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
