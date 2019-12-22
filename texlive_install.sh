@@ -51,6 +51,7 @@ tlmgr install   \
   epstopdf-base \
   ltxcmds       \
   kvsetkeys     \
+  kvdefinekeys  \
   amsmath
 
 # Keep no backups (not required, simply makes cache bigger)
