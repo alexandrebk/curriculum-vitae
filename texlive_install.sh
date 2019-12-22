@@ -30,36 +30,36 @@ tlmgr search --global --file tikz.sty
 # Other contrib packages: done as a block to avoid multiple calls to tlmgr
 # texlive-latex-base is needed to run pdflatex
 tlmgr install   \
-  ec            \
-  exam          \
-  etoolbox      \
-  l3packages    \
-  geometry      \
-  xcolor        \
-  moderncv      \
-  amsfonts      \
-  stmaryrd      \
-  l3kernel      \
-  microtype     \
-  pgf           \
-  cm-super      \
-  pdftexcmds    \
-  tlmgr         \
-  kvoptions     \
-  infwarerr     \
-  letltxmacro   \
-  epstopdf-base \
-  ltxcmds       \
-  kvsetkeys     \
-  kvdefinekeys  \
-  pdfescape     \
-  xcolor        \
-  hycolor       \
-  auxhook       \
-  intcalc       \
-  etexcmds      \
-  scheme-full   \
-  amsmath
+  # ec            \
+  # exam          \
+  # etoolbox      \
+  # l3packages    \
+  # geometry      \
+  # xcolor        \
+  # moderncv      \
+  # amsfonts      \
+  # stmaryrd      \
+  # l3kernel      \
+  # microtype     \
+  # pgf           \
+  # cm-super      \
+  # pdftexcmds    \
+  # tlmgr         \
+  # kvoptions     \
+  # infwarerr     \
+  # letltxmacro   \
+  # epstopdf-base \
+  # ltxcmds       \
+  # kvsetkeys     \
+  # kvdefinekeys  \
+  # pdfescape     \
+  # xcolor        \
+  # hycolor       \
+  # auxhook       \
+  # intcalc       \
+  # etexcmds      \
+  # amsmath       \
+  scheme-full
 
 # Keep no backups (not required, simply makes cache bigger)
 tlmgr option -- autobackup 0
