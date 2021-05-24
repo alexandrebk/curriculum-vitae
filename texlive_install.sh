@@ -36,7 +36,7 @@ tlmgr install   \
   # l3packages    \
   # geometry      \
   # xcolor        \
-  # moderncv      \
+  moderncv      \
   # amsfonts      \
   # stmaryrd      \
   # l3kernel      \
