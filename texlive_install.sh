@@ -13,8 +13,7 @@ if ! command -v texlua > /dev/null; then
   # Obtain TeX Live
   wget http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
   tar -xzf install-tl-unx.tar.gz
-  cp -a 2021 2022
-  cd install-tl-2022
+  cd install-tl-20*
 
   # Install a minimal system
   ./install-tl --profile=../texlive/texlive.profile
